@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="Oracle.ManagedDataAccess.Client" ProviderManifestToken="11.2" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="COLA_ESTUDIANTES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ID_ESTUDIANTE" Type="number" Precision="38" Scale="0" />
+    <Property Name="FECHA_ADICION" Type="varchar2" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ESTUDIANTE">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="CARNET" Type="varchar2" MaxLength="50" />
+    <Property Name="NOMBRE" Type="varchar2" MaxLength="50" />
+    <Property Name="FECHA_NACIMIENTO" Type="varchar2" MaxLength="100" />
+    <Property Name="FECHA_REGISTRO" Type="varchar2" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="INSCRIPCION_ESTUDIANTES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ID_ESTUDIANTE" Type="number" Precision="38" Scale="0" />
+    <Property Name="FECHA_ADICION" Type="varchar2" MaxLength="50" />
+    <Property Name="ADMISION" Type="varchar2" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="number" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="USUARIO" Type="varchar2" MaxLength="50" />
+    <Property Name="CONTRASEÑA" Type="varchar2" MaxLength="100" />
+  </EntityType>
+  <Association Name="ESTUDIANTES_FK">
+    <End Role="ESTUDIANTE" Type="Self.ESTUDIANTE" Multiplicity="1" />
+    <End Role="COLA_ESTUDIANTES" Type="Self.COLA_ESTUDIANTES" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="ESTUDIANTE">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="COLA_ESTUDIANTES">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ESTUDIANTES_FK1">
+    <End Role="ESTUDIANTE" Type="Self.ESTUDIANTE" Multiplicity="1" />
+    <End Role="INSCRIPCION_ESTUDIANTES" Type="Self.INSCRIPCION_ESTUDIANTES" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="ESTUDIANTE">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="INSCRIPCION_ESTUDIANTES">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="COLA_ESTUDIANTES" EntityType="Self.COLA_ESTUDIANTES" Schema="USR_PROYECTO" store:Type="Tables" />
+    <EntitySet Name="ESTUDIANTE" EntityType="Self.ESTUDIANTE" Schema="USR_PROYECTO" store:Type="Tables" />
+    <EntitySet Name="INSCRIPCION_ESTUDIANTES" EntityType="Self.INSCRIPCION_ESTUDIANTES" Schema="USR_PROYECTO" store:Type="Tables" />
+    <EntitySet Name="USUARIO" EntityType="Self.USUARIO" Schema="USR_PROYECTO" store:Type="Tables" />
+    <AssociationSet Name="ESTUDIANTES_FK" Association="Self.ESTUDIANTES_FK">
+      <End Role="ESTUDIANTE" EntitySet="ESTUDIANTE" />
+      <End Role="COLA_ESTUDIANTES" EntitySet="COLA_ESTUDIANTES" />
+    </AssociationSet>
+    <AssociationSet Name="ESTUDIANTES_FK1" Association="Self.ESTUDIANTES_FK1">
+      <End Role="ESTUDIANTE" EntitySet="ESTUDIANTE" />
+      <End Role="INSCRIPCION_ESTUDIANTES" EntitySet="INSCRIPCION_ESTUDIANTES" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

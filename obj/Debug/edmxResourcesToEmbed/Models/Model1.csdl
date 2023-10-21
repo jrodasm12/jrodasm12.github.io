@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="COLA_ESTUDIANTES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Decimal" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ID_ESTUDIANTE" Type="Decimal" Precision="38" Scale="0" />
+    <Property Name="FECHA_ADICION" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="ESTUDIANTE" Relationship="Self.ESTUDIANTES_FK" FromRole="COLA_ESTUDIANTES" ToRole="ESTUDIANTE" />
+  </EntityType>
+  <EntityType Name="ESTUDIANTE">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Decimal" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="CARNET" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NOMBRE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FECHA_NACIMIENTO" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="FECHA_REGISTRO" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="COLA_ESTUDIANTES" Relationship="Self.ESTUDIANTES_FK" FromRole="ESTUDIANTE" ToRole="COLA_ESTUDIANTES" />
+    <NavigationProperty Name="INSCRIPCION_ESTUDIANTES" Relationship="Self.ESTUDIANTES_FK1" FromRole="ESTUDIANTE" ToRole="INSCRIPCION_ESTUDIANTES" />
+  </EntityType>
+  <EntityType Name="INSCRIPCION_ESTUDIANTES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Decimal" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="ID_ESTUDIANTE" Type="Decimal" Precision="38" Scale="0" />
+    <Property Name="FECHA_ADICION" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ADMISION" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="ESTUDIANTE" Relationship="Self.ESTUDIANTES_FK1" FromRole="INSCRIPCION_ESTUDIANTES" ToRole="ESTUDIANTE" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Decimal" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="USUARIO1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CONTRASEÑA" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="ESTUDIANTES_FK">
+    <End Role="ESTUDIANTE" Type="Self.ESTUDIANTE" Multiplicity="1" />
+    <End Role="COLA_ESTUDIANTES" Type="Self.COLA_ESTUDIANTES" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="ESTUDIANTE">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="COLA_ESTUDIANTES">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ESTUDIANTES_FK1">
+    <End Role="ESTUDIANTE" Type="Self.ESTUDIANTE" Multiplicity="1" />
+    <End Role="INSCRIPCION_ESTUDIANTES" Type="Self.INSCRIPCION_ESTUDIANTES" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="ESTUDIANTE">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="INSCRIPCION_ESTUDIANTES">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="COLA_ESTUDIANTES" EntityType="Self.COLA_ESTUDIANTES" />
+    <EntitySet Name="ESTUDIANTE" EntityType="Self.ESTUDIANTE" />
+    <EntitySet Name="INSCRIPCION_ESTUDIANTES" EntityType="Self.INSCRIPCION_ESTUDIANTES" />
+    <EntitySet Name="USUARIO" EntityType="Self.USUARIO" />
+    <AssociationSet Name="ESTUDIANTES_FK" Association="Self.ESTUDIANTES_FK">
+      <End Role="ESTUDIANTE" EntitySet="ESTUDIANTE" />
+      <End Role="COLA_ESTUDIANTES" EntitySet="COLA_ESTUDIANTES" />
+    </AssociationSet>
+    <AssociationSet Name="ESTUDIANTES_FK1" Association="Self.ESTUDIANTES_FK1">
+      <End Role="ESTUDIANTE" EntitySet="ESTUDIANTE" />
+      <End Role="INSCRIPCION_ESTUDIANTES" EntitySet="INSCRIPCION_ESTUDIANTES" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

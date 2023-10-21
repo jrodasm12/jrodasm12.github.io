@@ -1,0 +1,219 @@
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\ProFinalEstudiantes.dll.config
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\ProFinalEstudiantes.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\ProFinalEstudiantes.pdb
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\csc.exe
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\csc.exe.config
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\csc.rsp
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\csi.exe
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\csi.exe.config
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\csi.rsp
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.AppContext.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Collections.Immutable.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Console.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Globalization.Calendars.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.IO.Compression.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.IO.FileSystem.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Net.Http.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Net.Sockets.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Reflection.Metadata.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.ValueTuple.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Xml.XPath.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\vbc.exe
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\vbc.exe.config
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\vbc.rsp
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\VBCSCompiler.exe
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\roslyn\VBCSCompiler.exe.config
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Antlr3.Runtime.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\EntityFramework.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\EntityFramework.SqlServer.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Microsoft.Web.Infrastructure.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Newtonsoft.Json.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Oracle.ManagedDataAccess.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Buffers.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Memory.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Numerics.Vectors.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Text.Encodings.Web.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Text.Json.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Threading.Tasks.Extensions.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.ValueTuple.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.Helpers.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.Mvc.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.Optimization.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.Razor.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.WebPages.Deployment.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.WebPages.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.WebPages.Razor.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\WebGrease.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\EntityFramework.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\EntityFramework.SqlServer.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Buffers.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Memory.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Numerics.Vectors.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Text.Encodings.Web.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Text.Json.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Threading.Tasks.Extensions.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.ValueTuple.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.Helpers.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.Mvc.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.Optimization.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.Razor.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.WebPages.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.WebPages.Deployment.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\System.Web.WebPages.Razor.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Newtonsoft.Json.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Antlr3.Runtime.pdb
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\es\System.Web.Helpers.resources.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\es\System.Web.Mvc.resources.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\es\System.Web.Optimization.resources.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\es\System.Web.Razor.resources.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\es\System.Web.WebPages.resources.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\obj\Debug\ProFinalEstudiantes.csproj.CoreCompileInputs.cache
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\obj\Debug\ProFinalEstudiantes.csproj.CopyComplete
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\obj\Debug\ProFinalEstudiantes.dll
+D:\Windows\Documentos\Progra II\ProFinalEstudiantes\obj\Debug\ProFinalEstudiantes.pdb
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\ProFinalEstudiantes.dll.config
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\ProFinalEstudiantes.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\ProFinalEstudiantes.pdb
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\csc.exe
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\csc.exe.config
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\csc.rsp
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\csi.exe
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\csi.exe.config
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\csi.rsp
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.AppContext.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Console.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.IO.Compression.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Net.Http.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.ValueTuple.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\vbc.exe
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\vbc.exe.config
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\vbc.rsp
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\VBCSCompiler.exe
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Antlr3.Runtime.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\EntityFramework.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\EntityFramework.SqlServer.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Newtonsoft.Json.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Oracle.ManagedDataAccess.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Buffers.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Memory.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Numerics.Vectors.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Text.Encodings.Web.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Text.Json.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.ValueTuple.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.Helpers.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.Mvc.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.Optimization.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.Razor.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.WebPages.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.WebPages.Razor.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\WebGrease.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\EntityFramework.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\EntityFramework.SqlServer.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Buffers.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Memory.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Numerics.Vectors.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Text.Encodings.Web.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Text.Json.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.ValueTuple.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.Helpers.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.Mvc.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.Optimization.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.Razor.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.WebPages.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\System.Web.WebPages.Razor.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Newtonsoft.Json.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Antlr3.Runtime.pdb
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\es\System.Web.Razor.resources.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\obj\Debug\ProFinalEstudiantes.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\ProFinalEstudiantes\obj\Debug\ProFinalEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\ProFinalEstudiantes\obj\Debug\ProFinalEstudiantes.csproj.CopyComplete
+C:\Users\jerem\source\repos\ProFinalEstudiantes\obj\Debug\ProFinalEstudiantes.dll
+C:\Users\jerem\source\repos\ProFinalEstudiantes\obj\Debug\ProFinalEstudiantes.pdb
